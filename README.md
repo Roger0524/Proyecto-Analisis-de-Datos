@@ -22,9 +22,9 @@ El conjunto de datos del Titanic es un caso clásico utilizado para explorar los
 
 ## Resultados Clave
 
-- **Supervivencia por Género**: El 74% de las mujeres sobrevivieron, en comparación con solo el 19% de los hombres.
-- **Desigualdad por Clase**: El 62% de los pasajeros de primera clase sobrevivieron, frente al 47% en segunda clase y solo el 24% en tercera clase.
-- **Influencia de la Edad**: Los niños menores de 16 años presentaron tasas de supervivencia más altas que los adultos.
+- **Género**: El 74% de las mujeres sobrevivieron, en comparación con solo el 19% de los hombres.
+- **Clase**: El 62% de los pasajeros de primera clase sobrevivieron, frente al 47% en segunda clase y solo el 24% en tercera clase.
+- **Edad**: Los niños menores de 16 años presentaron tasas de supervivencia más altas que los adultos.
 
 ---
 
