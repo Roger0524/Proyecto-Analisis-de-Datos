@@ -1,4 +1,4 @@
-# Análisis de Supervivencia del Titanic
+# Análisis de Supervivencia
 
 Este repositorio contiene un análisis completo del conjunto de datos del Titanic utilizando un modelo de regresión logística. El objetivo es comprender los factores que influyeron en la supervivencia de los pasajeros y construir un modelo predictivo.
 
