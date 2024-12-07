@@ -39,8 +39,3 @@ Antes de ejecutar el código, asegúrate de tener instaladas las siguientes depe
   - `matplotlib`
   - `seaborn`
   - `scikit-learn`
-
-Puedes instalarlas utilizando el archivo `requirements.txt` incluido en el repositorio:
-
-```bash
-pip install -r requirements.txt
